@@ -17,7 +17,7 @@
 }
 li{
   list-style: none;
-  width: 100px;
+  width: 130px;
   background-color: #3b77b3;
   margin: 10px;
   border-radius: 5px;
@@ -65,4 +65,8 @@ button:hover{
   cursor: pointer;
   font-size: x-large;
   box-shadow:  3px 3px 3px 3px black;
+}
+img{
+  width: 200px;
+  height: 200px;
 }
